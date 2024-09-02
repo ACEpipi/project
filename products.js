@@ -1,3 +1,5 @@
+// src/products.js
+
 const products = [
     { id: 1, name: 'Cây Lưỡi Hổ', price: 150000, image: '/images/luoi-ho.jpg', category: 'Cây để bàn' },
     { id: 2, name: 'Cây Kim Tiền', price: 200000, image: '/images/kim-tien.jpg', category: 'Cây để bàn' },
